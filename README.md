@@ -1,1 +1,1 @@
-# trials
+# goit-js-hw-06
